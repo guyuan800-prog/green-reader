@@ -1,0 +1,12 @@
+{
+  "name": "小圆阅读器",
+  "short_name": "阅读器",
+  "description": "保持原版排版的轻量小说阅读器",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ececec",
+  "theme_color": "#3a6ea5",
+  "icons": [{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
